@@ -12,7 +12,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author ojosu
+ * @author iodin
  */
 public class Carrera extends javax.swing.JFrame {
 

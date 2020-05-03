@@ -8,7 +8,7 @@ package Ventanas;
 
 /**
  *
- * @author ojosu
+ * @author iodin
  */
 public class Invalido extends javax.swing.JFrame {
 

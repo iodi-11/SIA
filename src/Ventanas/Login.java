@@ -116,7 +116,7 @@ public class Login extends javax.swing.JFrame {
          status = true;
             user = Usuario.getText();
             pass = Contraseña.getText();
-            String sUrl = "jdbc:postgresql://localhost:5432/sia";  // sUrl de conexión
+            String sUrl = "jdbc:postgresql://localhost:5433/SIA";  // sUrl de conexión
             String sUsr = Usuario.getText(); // Usuario
             String sPwd = Contraseña.getText();  // Contraseña
             try {

@@ -13,7 +13,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author ojosu
+ * @author iodin
  */
 public class Departamento extends javax.swing.JFrame {
 

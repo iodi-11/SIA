@@ -14,7 +14,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author ojosu
+ * @author iodin
  */
 public class Proveedor extends javax.swing.JFrame {
 
